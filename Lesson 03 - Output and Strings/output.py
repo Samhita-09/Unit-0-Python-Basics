@@ -77,7 +77,7 @@ print("=" * 40)
 # JavaScript: console.log('She said "Good morning!"');
 # Python: 
 
-
+#
 # JavaScript: console.log("It's a beautiful day!");
 # Python: 
 
